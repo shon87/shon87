@@ -12,18 +12,12 @@
 * Применение математических методов в медицине и психологии <br />
 
 #### Hard skills
-##### Database: 
-MySql, PostgreSql, BigQuery (подзапросы, CTE, оконные функции) <br />
-##### Programming: 
-Python (Pandas, Numpy, Requests, Implicit и т.д.) <br />
-##### ETL: 
-Apache Airflow <br />
-##### Visualization: 
-Google Data Studio, DataLens, Apache Superset, Power BI, Tableau <br />
-##### Product analytics: 
-Unit-Economics, Cohort analysis <br />
-##### Statistica: 
-SPSS, Statistica <br />
+* Database *: MySql, PostgreSql, BigQuery (подзапросы, CTE, оконные функции) <br />
+Programming: Python (Pandas, Numpy, Requests, Implicit и т.д.) <br />
+ETL: Apache Airflow <br />
+Visualization: Google Data Studio, DataLens, Apache Superset, Power BI, Tableau <br />
+Product analytics: Unit-Economics, Cohort analysis <br />
+Statistica: SPSS, Statistica <br />
 
 #### Soft skills
 * Работа в команде <br />
